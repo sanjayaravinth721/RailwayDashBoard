@@ -1,0 +1,57 @@
+
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  nav {
+    background-color: #333;
+    color: white;
+    padding: 10px;
+  }
+  
+  nav ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  nav li {
+    display: inline;
+    margin-right: 10px;
+  }
+  
+  nav a {
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+  }
+  
+  hr {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border: 0;
+    border-top: 1px solid #ccc;
+  }
+  
+  .train-list-container {
+    margin: 20px;
+  }
+  
+  .train-list-table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  .train-list-table th, .train-list-table td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+  }
+  
+  .station-master {
+    margin: 20px;
+  }
+  
+  

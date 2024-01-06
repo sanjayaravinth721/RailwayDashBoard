@@ -1,0 +1,30 @@
+.station-master {
+    max-width: 400px;
+    margin-top: 20px;
+}
+
+.station-master label {
+    display: block;
+    margin-bottom: 10px;
+}
+
+.station-master input {
+    width: 100%;
+    padding: 8px;
+    margin-top: 4px;
+    margin-bottom: 10px;
+    box-sizing: border-box;
+}
+
+.station-master button {
+    background-color: #4caf50;
+    color: white;
+    padding: 10px;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+}
+
+.station-master button:hover {
+    background-color: #45a049;
+}
